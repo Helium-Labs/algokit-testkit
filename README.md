@@ -2,7 +2,7 @@
 
 Algokit Test KMD, Algod, Indexer clients exposed with helper to fund accounts. Representing a lightweight testkit for testing Algorand tx with Algokit's private Algorand network running in Docker. Compatible with ESM, CJS, Node and the Browser. See [Getting started with Algokit](https://developer.algorand.org/docs/get-started/algokit/).
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: Apache 2.0](https://img.shields.io/badge/License-ApacheV2-yellow.svg)
 
 ## Installation
 
